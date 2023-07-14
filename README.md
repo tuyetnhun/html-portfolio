@@ -36,5 +36,3 @@ href="https://www.google.com/maps/@35.7040744,139.5577317,3a,75y,289.6h,87.01t,0
 <p>bài học :) cuộc sống mạo hiểm, hong chịu học</p>
 <h3>Your Name</h3>
 <p>cảnh đẹp ảnh đẹp nhạc hay</p>
-<img src="pic.png" />
-<img src="pic2.png" />
